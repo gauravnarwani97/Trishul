@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/gauravnarwani97/Trishul"><img src="https://i.ibb.co/d7Z6Xjp/Trishul.png" alt="Trishul"></a>
+  <a href="https://github.com/gauravnarwani97/Trishul"><img src="https://i.ibb.co/XtMBbBv/logo.png" alt="Trishul" width="200" height="171"></a>
 </h1>
 
 <h4 align="center">Burp Extension for Automated Vulnerability Discovery</h4>
